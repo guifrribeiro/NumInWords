@@ -1,0 +1,16 @@
+C:\Users\gfribeiro\src\NumInWords\NumInWords\bin\Debug\net5.0\NumInWords.exe
+C:\Users\gfribeiro\src\NumInWords\NumInWords\bin\Debug\net5.0\NumInWords.deps.json
+C:\Users\gfribeiro\src\NumInWords\NumInWords\bin\Debug\net5.0\NumInWords.runtimeconfig.json
+C:\Users\gfribeiro\src\NumInWords\NumInWords\bin\Debug\net5.0\NumInWords.runtimeconfig.dev.json
+C:\Users\gfribeiro\src\NumInWords\NumInWords\bin\Debug\net5.0\NumInWords.dll
+C:\Users\gfribeiro\src\NumInWords\NumInWords\bin\Debug\net5.0\NumInWords.pdb
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\NumInWords.csproj.AssemblyReference.cache
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\NumInWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\NumInWords.AssemblyInfoInputs.cache
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\NumInWords.AssemblyInfo.cs
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\NumInWords.csproj.CoreCompileInputs.cache
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\NumInWords.dll
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\refint\NumInWords.dll
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\NumInWords.pdb
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\NumInWords.genruntimeconfig.cache
+C:\Users\gfribeiro\src\NumInWords\NumInWords\obj\Debug\net5.0\ref\NumInWords.dll

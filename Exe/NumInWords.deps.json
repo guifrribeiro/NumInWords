@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NumInWords/1.0.0": {
+        "dependencies": {
+          "SonarAnalyzer.CSharp": "8.37.0.45539"
+        },
+        "runtime": {
+          "NumInWords.dll": {}
+        }
+      },
+      "SonarAnalyzer.CSharp/8.37.0.45539": {}
+    }
+  },
+  "libraries": {
+    "NumInWords/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SonarAnalyzer.CSharp/8.37.0.45539": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5bv2bM7PKrUi7+eoLQF8oXBjaPSGkSed2ahoeYfWlX8o2BSLZE6witne1CNbUNesLICtyCXk6AqtTJczGbJlCA==",
+      "path": "sonaranalyzer.csharp/8.37.0.45539",
+      "hashPath": "sonaranalyzer.csharp.8.37.0.45539.nupkg.sha512"
+    }
+  }
+}

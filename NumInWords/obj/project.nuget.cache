@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBBmdS1HLd2yuHAm5Bkjm1Cpuz3QS7AyZp+r1EGaW3duwli83FVlnC8DY1oQszbXHV9ky+VhD8kgLsgxz5l9VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gfribeiro\\src\\NumInWords\\NumInWords\\NumInWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfribeiro\\.nuget\\packages\\sonaranalyzer.csharp\\8.37.0.45539\\sonaranalyzer.csharp.8.37.0.45539.nupkg.sha512"
+  ],
+  "logs": []
+}
