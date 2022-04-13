@@ -1,4 +1,5 @@
 # Number Into Words HEXAGON
+A cheque writing program is one that takes a number as input, and converts this number into words. These words are then output as a string.
 
 ## Approach
 My approach was to use arrays containing the corresponding string for predefinid values according to the language.
